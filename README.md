@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👋 Hey there! I'm Igor Penkin 
 
-<!--
-**iPenkinDev/iPenkinDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###    👨🏻‍💻  About Me
 
-Here are some ideas to get you started:
+- 💡  I like to explore new technologies
+- 🎓  I have a degree in information systems
+- ✍️  I'm currently studying JavaRush courses
+- 📋  My resume on [habr](https://career.habr.com/happycaat) or [headhunter](https://hh.ru/resume/e229657eff0b52c0b30039ed1f4830355a4745) (in Russian).
+- ✉️  You can shoot me a message at [Telegram](https://t.me/happycaat) I'll try to respond as soon as I can.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ **🛠 Tech Stack:**  
+ <code><img height="35" title="Java" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
+ <code><img height="35" title="Gradle" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVQAAABWCAMAAACn8544AAABnlBMVEX////2mSPpeCbKITfMIjXJIDfNIzW9IES/IEG7IEbeVyzGIDrBIEC4IEi0IE2xIFCuIFPodCfkaSniZCn88fLEIDysIFWGJnb61K30kiTqgDPmbijhYCrgXCvcUC3YRS/WPjD11dn28vf0qFryolzZWWjlkJriyd1+KHvl1+fJydiTkrDk5Ov++PHyjiT86db95cj1o0X41bv3zK35s1nuk0/xqnffXjnigo3bZnTonafuucD34+fej6HmucjWj6mnIFtraZP3tGn6wHX70p74s1r3pj/3xJH3nzHzs4T1tnz0o0zzu5L528n0xa/zqWnwsZTtpIftnXTqiFDngmD43tflfWDmeFPokHzfaVXxtaHlemLdZmblhn/eX0jlgm/meEProZftqaPxvbjYUlnVR1HWSEjhdHHdYFjWRE3LPFXNV3LXc4fMSWPOZYG9O2PRc4/jr8C6SXWtYZicLnHUj6zOlbebR4mkK2exSn/BZY+7V4W3dqfiuc3EibDLoMKRQ4uZW5y6lMB9OYyJU56Ybq/FsNSAbKKGhKahoLpfMo/FAAAFjklEQVR4nO2Yi1MTVxSHQ3bzTghJSFZIMI+SlyKgqEBeLNpaVES00vqAWjBYG0AIqCgFhYix/a97zt0wBSEhSMztbs83k2Sy90zmN9+ce+5mdTqCIAiCIAiCIAiCIAiCIAiCIIimcebatTMXeIfQGP0tHR29F/t4x9AW11vQam99VvuuX+//xnk0wcUWoKP3dj2132PpmW+dSAO0MDrqcHXhB8U/DeDjuKBIbbl45bjKvhuK/t4fm5FL1fRXnHbqL9Uu7Bur9HTvd81JpmL695zqb9asG+jGujGSWg93usdabqBTfc39P6DvBKeXqVPr4pK+s/sWKHW5XDWqBlx6/W3mFI60W00Lp1bGQedVMOr3++9ULZrwQ0X35brvE/7vjIPOq2DU73ZPVKuZcLv9ftf4FeBud/dduqU6jkmwOel2uz0ez2SVkomAx+N23+yEEYBcbWo+VTKJNj2eAHDv6Iqpwa5AwHP/JxgBTGr1KUFUmESbgS7A+uDIgqlBq7Ur8OA+GwEuatR6mACbk1bGz0ettw+ePWu1/nIv4EGrflcnTdTjuQM2n4I44GH74eX2R0FYGXzc1cUGq98/0PyI6mMKnD15gk6Dc9OHl2eCwNnHg9YuHKwe9/3mJ1QhIDX461NUF5w2Zr5cjU2HQsHgw0c4ArBZf6PNXw9TqHMWXqFpozH9xWLaKIRCoUezOAKseF5NccmoOtqDoG0OXuDUGDu4FraJxnwo9AwnANNa9e8BcZD8CyZ13iiKYvTASnseL4We4QRgWslpvRiN0eezz+dFZOjAyjBess38Dm2MWgefcUqoQqIoM8qciqnwvoWUIAqimE/l8y+QmbkZbhlVB/qMYlMKoi26b6iGvQIgpm2wZGTEqv8IcZAh9BmDrhSEeWHf8V9Ap0Ks0sPg9A9+GVUH85kSFP7d/kMG/F6AGaBIFY3hGj9CHCSN8tibQfAO7f1TDdsMBtCahhkgCkccYkRNwmyXzwsg0VAw7O3/gtcGWmNRpYHB6TDXkKoDOtQQHTYYbMiici1r94LVQlowKFbn00c8bCGqM48+U2jU6/UW2KWM2Q5WvWkvmwGCkI/mOYdUG8OoM+VF7HY7e6ayYDKD1qFFG84A7NYCNerJyKLOoh0xm805uJKzmMCqKe31sslqEGLk9ISEUefiAgg1AVm4suAAq6b0kp1NVtvwYop3RvUBOs1LWTRqslhAatHhcFgsC1mzMlmhWQ89ZyWOYwl1Fi0A2Hyp0y23wqcj7DCZFK17twTECciiT2xPoHVBl3O2trY6si8tlopVMzXqycmhzZVlRyvyUrfqBKvLOTYDQKvdnuUdUJWgzOUV5tQ5kmlrA6tFNgOY1SXe8dQJ+nQWnYzciA+srhbRMGo1mehByleRYzadbUhG9vl8bWHsVsVqkXc6tbIMNkdWwaZvdQulroy07Vmlgfq1jKBOfPMV117Jshz2+SpWV3hHUy8Z9LkFNlcjEkh9vYHfwaqTnJ6C1yC0KMuv3qxL0tu3cVlmVn053rlUTWb9nbyxIa9JwLvin6BY9skj9BjldGxK6yATnUprOAfkjdftuniSdyx1kwGbW8ypFF9bX3sfj8ffrH/gnUrVRD7ENyXp/U4ikZC2y1IFcno6kuBUWi+B1ER8O6FMAdr7p6YH2nQTnO4wszBYt+jZVAPYTKDPZIIhSdSoDSC5k9je2d4sKVI3e3jn0QLJ0oeP25Gd+A6c+3Qr1TA+Jculki5JZ34DgfaMfIzAicU7iJYAmeVd+IzwDqIxdktx3hE0R7nUU+KdQXPsRnSfeGfQGmVo0zLdTDWWXTz6af83lDLz+Zl3DG0xyu6l/qb930DOnWcfPX9xzqEpRis3/aN8Y2iKSqPC/j/HNYemGN37y99zvmbdf4R/APRU1xIy5QpXAAAAAElFTkSuQmCC"></code>
