@@ -21,7 +21,7 @@
  <code><img height="35" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
  <code><img height="35" title="IntelliJ IDEA" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg"></code>
  <code><img height="35" title="Visual Studio Code" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
- <code><img height="35" title="Docker" src="https://www.svgrepo.com/svg/349342/docker"></code>
+ <code><img height="35" title="Docker" src="https://avatars.githubusercontent.com/u/7739233?s=280&v=4"></code>
  
  
  ### ⚙️ &nbsp;GitHub Analytics
