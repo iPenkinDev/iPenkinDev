@@ -18,13 +18,13 @@
  <code><img height="35" title="Hibernate" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/hibernate.svg"></code>
  <code><img height="35" title="Apache Tomcat" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/2560px-Apache_Tomcat_logo.svg.png"></code>
  <code><img height="35" title="Lombok" src="https://avatars.githubusercontent.com/u/45949248?s=200&v=4"></code>
+ <code><img height="35" title="Swagger" src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/1_ihb6hdmaw48vjtbsjyhbzg-1830140.png"></code>
  <code><img height="35" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
  <code><img height="35" title="IntelliJ IDEA" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg"></code>
  <code><img height="35" title="Visual Studio Code" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
  <code><img height="35" title="RabbitMQ" src="https://pbs.twimg.com/profile_images/1223261138059780097/eH73w5lN_400x400.jpg"></code>
  <code><img height="35" title="Docker" src="https://avatars.githubusercontent.com/u/7739233?s=280&v=4"></code>
- <code><img height="35" title="Swagger" src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/1_ihb6hdmaw48vjtbsjyhbzg-1830140.png"></code>
- 
+  
  
  ### ⚙️ &nbsp;GitHub Analytics
 
