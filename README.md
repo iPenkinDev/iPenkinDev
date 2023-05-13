@@ -23,6 +23,7 @@
  <code><img height="35" title="Visual Studio Code" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
  <code><img height="35" title="RabbitMQ" src="https://pbs.twimg.com/profile_images/1223261138059780097/eH73w5lN_400x400.jpg"></code>
  <code><img height="35" title="Docker" src="https://avatars.githubusercontent.com/u/7739233?s=280&v=4"></code>
+ <code><img height="35" title="Swagger" src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/1_ihb6hdmaw48vjtbsjyhbzg-1830140.png"></code>
  
  
  ### ⚙️ &nbsp;GitHub Analytics
