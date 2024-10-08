@@ -6,7 +6,7 @@
 - 🎓  I have a degree in information systems
 - ✍️  I'm currently studying JavaRush courses
 - 📋  My resume on [habr](https://career.habr.com/happycaat) or [headhunter](https://hh.ru/resume/e229657eff0b52c0b30039ed1f4830355a4745) (in Russian).
-- ✉️  You can shoot me a message at [Telegram](https://t.me/happycaat) I'll try to respond as soon as I can.
+- ✉️  You can shoot me a message at [Telegram](https://t.me/SneakyThrow) I'll try to respond as soon as I can.
 
 
  **🛠 Tech Stack:**  
